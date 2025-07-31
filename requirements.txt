@@ -1,0 +1,12 @@
+python-dotenv==1.0.0       # Environment variable management
+requests==2.31.0           # API requests
+pandas==2.1.0              # Data handling
+numpy==1.26.0              # Numerical calculations
+statsmodels==0.14.0        # Statistical models (for anomaly detection)
+streamlit==1.27.0          # Dashboard interface
+plotly==5.17.0             # Interactive charts
+python-json-logger==2.0.7  # Structured logging
+sqlalchemy==2.0.21         # Database ORM (optional)
+tqdm==4.66.1               # Progress bars (optional)
+ollama>=0.1.0
+yfinance>=0.2.37
