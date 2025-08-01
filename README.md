@@ -166,6 +166,10 @@ Line Chart
 Pie Chart and Bar chart
 <img width="1890" height="871" alt="image" src="https://github.com/user-attachments/assets/0cc33878-2f88-469a-8af4-addcdc73dcb5" />
 
+**Market News Analysis**
+<img width="1782" height="614" alt="image" src="https://github.com/user-attachments/assets/a7981ed1-286b-4ec8-a4d1-652169bf7619" />
+
+
 
 
 
