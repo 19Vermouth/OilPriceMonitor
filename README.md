@@ -9,6 +9,9 @@ The global oil market is highly volatile, with prices fluctuating due to geopoli
 3. **Historical trend analysis** with AI-powered insights
 4. **Reliable data pipelines** that work despite API limitations
 
+## Project Summary
+Developed a robust, automated platform in Python to track and analyze global oil prices using Alpha Vantage, yFinance, and NewsAPI with local SQLite caching for resilient data ingestion. Implemented an LLM (example: Mistral-7B via Ollama) for AI-driven market summaries. Real-time data ingestion and visualization are provided via Streamlit and Plotly. The pipeline is resilient to API outages through multi-source ingestion and local cache fallback.
+
 This system solves these challenges through an automated monitoring platform that combines live data feeds with AI analysis.
 
 ## 🚀 Key Accomplishments
