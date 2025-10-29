@@ -45,6 +45,8 @@ This system solves these challenges through an automated monitoring platform tha
    - Alert system for significant events
 
 ## 🏗️ System Architecture
+<img width="4648" height="2596" alt="diagram" src="https://github.com/user-attachments/assets/89f439d0-9fc6-4311-b741-953deae59b60" />
+
 
 ```
 oil-price-monitor/
