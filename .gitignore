@@ -1,0 +1,55 @@
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Node
+node_modules/
+web/node_modules/
+.next/
+out/
+dist/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Data (large files)
+*.parquet
+*.csv
+data/*.csv
+data/*.parquet
+data/raw/
+data/processed/
+
+# Docker
+docker-compose.override.yml
+
+# Misc
+*.tmp
+*.bak
+.cache/
