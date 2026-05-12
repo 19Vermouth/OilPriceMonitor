@@ -4,3 +4,6 @@ venv/
 *.log
 __pycache__/
 .vscode/
+
+# GEIP Platform (temporary - move to separate repo later)
+geip/
